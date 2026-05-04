@@ -8,9 +8,11 @@ This is a data analysis case study completed as part of the Google Data Analytic
 
 
 
+
 ## 🏢 About Bellabeat  
 
 Bellabeat is a high-tech wellness company focused on empowering women through data-driven. It was founded in 2013 by Urška Sršen and Sando Mur. The company develops health-focused smart products that collect data on activity, sleep, stress, and reproductive health — empowering women with knowledge about their own wellness.  
+
 
 
 
@@ -22,33 +24,41 @@ Focus: How do daily steps relate to sedentary behavior among smart device users?
 
 
 
+
 ## 📂 Dataset
 
 Source: Fitbit Fitness Tracker Data — Kaggle (Möbius)  
 
-License: CCO Public Domain. 
+License: CCO Public Domain
 
-Period: March – May 2016.  
+Period: March – May 2016
 
-Participants: 30–33 Fitbit users (via Amazon Mechanical Turk survey) 
+Participants: 30–33 Fitbit users (via Amazon Mechanical Turk survey)
 
 Files Used: dailyActivity_merged, dailyCalories_merged, dailyIntensities_merged, dailySteps_merged, sleepDay_merged, weightLogInfo_merged
+
 
 
 
 ## ⚠️ Data Limitations:
 
 Small sample size
+
 Outdated dataset (2016)
+
 No demographic data (gender, age, location)
+
 Not specific to Bellabeat’s target audience (women)
+
 
 
 
 ## 🛠️ Tools & Packages
 
 Language: R, Tableau
+
 Packages: tidyverse, lubridate, here, skimr, janitor, dplyr, ggplot2
+
 
 
 
@@ -57,20 +67,28 @@ Packages: tidyverse, lubridate, here, skimr, janitor, dplyr, ggplot2
 This project follows the 6-step data analysis framework:
 
 Ask
+
 Prepare
+
 Process
+
 Analyze
+
 Share
+
 Act
+
+
 
 
 ## 🧹 Data Cleaning
 
-Standardized column names using clean_names()
-Removed 3 duplicate rows from sleep_day
-Renamed date columns for consistency across all tables
-Converted date columns from char to Date format using lubridate
-Sorted all datasets by date
+- Standardized column names using clean_names()
+- Removed 3 duplicate rows from sleep_day
+- Renamed date columns for consistency across all tables
+- Converted date columns from char to Date format using lubridate
+- Sorted all datasets by date
+
 
 
 ## 🔍 Exploratory Analysis
