@@ -27,9 +27,13 @@ Focus: How do daily steps relate to sedentary behavior among smart device users?
 📂 Dataset
 
 Source: Fitbit Fitness Tracker Data — Kaggle (Möbius)
+
 License: CCO Public Domain
+
 Period: March – May 2016
+
 Participants: 30–33 Fitbit users (via Amazon Mechanical Turk survey)
+
 Files Used: dailyActivity_merged, dailyCalories_merged, dailyIntensities_merged, dailySteps_merged, sleepDay_merged, weightLogInfo_merged
 
 
