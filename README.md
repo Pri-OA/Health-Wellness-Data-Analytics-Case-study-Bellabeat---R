@@ -145,30 +145,30 @@ User segmentation:
 
 
 
-##💡Recommendation
+## 💡Recommendation
 
 1. Target Sedentary Users (Focus marketing on): 
-   - Office workers
-   - Remote workers
-   - Low-mobility lifestyles
+- Office workers
+- Remote workers
+- Low-mobility lifestyles
 
 2. In-app education:
-   - Provide tips on how walking and movement improve health outcomes
-   - Risks of sedentary behavior
+- Provide tips on how walking and movement improve health outcomes
+- Risks of sedentary behavior
 
 3. Goal setting feature:
-   - Allow users to set daily, weekly, and monthly activity targets
-   - Progress tracking dashboards
+- Allow users to set daily, weekly, and monthly activity targets
+- Progress tracking dashboards
    
 4. Smart notifications:
-   - Prompt users when they fall short of their activity goals
-   - “Move alerts” during inactivity
-   - Motivational prompts
+- Prompt users when they fall short of their activity goals
+- “Move alerts” during inactivity
+- Motivational prompts
    
 5. Women-focused features (Since Bellabeat targets women):
-   - Integrate menstrual cycle insights period tracking with activity guidance
-   - Provide tailored health recommendations
-   - Encourage activity during different cycle phases
+- Integrate menstrual cycle insights period tracking with activity guidance
+- Provide tailored health recommendations
+- Encourage activity during different cycle phases
 
 
 
@@ -185,9 +185,8 @@ By combining behavioral nudges, personalization, and targeted marketing, Bellabe
 
 
 
-👤 Author: Prince Owusu Agyare
 
+## 👤 Author: 
+👤 Prince Owusu Agyare
 📧 prince.agyare@gmail.com
-
-
 🔗 https://www.linkedin.com/in/prince-o-agyare-data-bi-reporting-analyst/
