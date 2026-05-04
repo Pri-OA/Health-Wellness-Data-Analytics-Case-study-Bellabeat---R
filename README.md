@@ -55,28 +55,19 @@ Packages: tidyverse, lubridate, here, skimr, janitor, dplyr, ggplot2
 This project follows the 6-step data analysis framework:
 
 Ask
-
 Prepare
-
 Process
-
 Analyze
-
 Share
-
 Act
 
 
 Data Cleaning
 
 Standardized column names using clean_names()
-
 Removed 3 duplicate rows from sleep_day
-
 Renamed date columns for consistency across all tables
-
 Converted date columns from char to Date format using lubridate
-
 Sorted all datasets by date
 
 
