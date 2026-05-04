@@ -187,6 +187,6 @@ By combining behavioral nudges, personalization, and targeted marketing, Bellabe
 
 
 ## 👤 Author: 
-👤 Prince Owusu Agyare
-📧 prince.agyare@gmail.com
-🔗 https://www.linkedin.com/in/prince-o-agyare-data-bi-reporting-analyst/
+👤 Prince Owusu Agyare 
+📧 prince.agyare@gmail.com 
+🔗 https://www.linkedin.com/in/prince-o-agyare-data-bi-reporting-analyst/ 
