@@ -1,19 +1,14 @@
-Setting up Environment
-add Codeadd Markdown
-PHASE 3 - PROCESS
+## Setting up Environment
+
+## PHASE 3 - PROCESS
 I used the following 6 datasets for the analysis based of my task and narrowed focal points:
 
-• dailyactivity_merged
-
-• dailycalories_merged
-
-• dailyIntensities_merged
-
-• dailysteps_merged
-
-• sleepday_merged
-
-• weightLogInfo_merged
+- dailyactivity_merged
+- dailycalories_merged
+- dailyIntensities_merged
+- dailysteps_merged
+- sleepday_merged
+- weightLogInfo_merged
 
 add Codeadd Markdown
 # load tidyverse for data data manipulation, exploration, and visualization
