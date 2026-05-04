@@ -1,4 +1,4 @@
-# 🌿 Bellabeat-Smart-Device-Usage-Analysis
+# 🌿 Health & Wellness Data Analytics Case Study – Bellabeat - R
 End-to-end data analysis case study analyzing smart fitness device data to uncover user behavior trends and deliver strategic marketing recommendations for Bellabeat, a women-focused health tech company. 
 
 
@@ -55,7 +55,7 @@ Not specific to Bellabeat’s target audience (women)
 
 ## 🛠️ Tools & Packages
 
-Language: R, Tableau
+Language: R
 
 Packages: tidyverse, lubridate, here, skimr, janitor, dplyr, ggplot2
 
