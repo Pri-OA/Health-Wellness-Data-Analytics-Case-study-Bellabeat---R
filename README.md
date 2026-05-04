@@ -18,8 +18,8 @@ Bellabeat is a high-tech wellness company focused on empowering women through da
 
 ## 🎯 Business Task
 
-Bellabeat’s ecosystem enables users to better understand their habits and make informed lifestyle decisions.
-This project analyzes Fitbit smart device usage data to identify trends and behavioral patterns, and use those insights to guide Bellabeat's marketing strategy.
+Bellabeat’s ecosystem enables users to better understand their habits and make informed lifestyle decisions. 
+This project analyzes Fitbit smart device usage data to identify trends and behavioral patterns, and use those insights to guide Bellabeat's marketing strategy. 
 Focus: How do daily steps relate to sedentary behavior among smart device users?
 
 
@@ -66,17 +66,12 @@ Packages: tidyverse, lubridate, here, skimr, janitor, dplyr, ggplot2
 
 This project follows the 6-step data analysis framework:
 
-Ask
-
-Prepare
-
-Process
-
-Analyze
-
-Share
-
-Act
+- Ask
+- Prepare
+- Process
+- Analyze
+- Share
+- Act
 
 
 
@@ -95,34 +90,35 @@ Act
 
 User Engagement:
 
-Total users: 33
+- Total users: 33
 
-Average logins: 28
+- Average logins: 28
 
 
 User segmentation:
 
-Active users: 81.8%
+- Active users: 81.8%
 
-Low-engagement users: 18.1%
-
-Calculated average daily steps and average sedentary minutes per user
-
-Classified users by activity level based on WHO & NIH guidelines:
-
-Sedentary (<5,000 steps): 8 users
-
-Low Active (5,000–7,999): 11 users
-
-Somewhat Active (8,000–9,999): 7 users
-
-Active (10,000+): 4 users
-
-More Active (12,000+): 3 users
+- Low-engagement users: 18.1%
 
 
-Calculated average time in bed vs average minutes asleep per user
-Merged dataframes for visualization
+### 🔢 Calculated average daily steps and average sedentary minutes per user
+
+(Classified users by activity level based on WHO & NIH guidelines):
+
+- Sedentary (<5,000 steps): 8 users
+
+- Low Active (5,000–7,999): 11 users
+
+- Somewhat Active (8,000–9,999): 7 users
+
+- Active (10,000+): 4 users
+
+- More Active (12,000+): 3 users
+
+
+### Calculated average time in bed vs average minutes asleep per user
+- Merged dataframes for visualization
 
 
 
