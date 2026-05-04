@@ -1,18 +1,18 @@
 # Bellabeat-Smart-Device-Usage-Analysis
 End-to-end data analysis case study analyzing smart fitness device data to uncover user behavior trends and deliver strategic marketing recommendations for Bellabeat, a women-focused health tech company.
 
-🌿 Bellabeat Smart Device Usage Analysis
+##🌿 Bellabeat Smart Device Usage Analysis  
 
 
-📌 Overview
+##📌 Overview  
 
-This is a data analysis case study completed as part of the Google Data Analytics Professional Certificate. The goal was to analyze smart device fitness data to uncover how users interact with their devices — and translate those insights into actionable marketing recommendations for Bellabeat, a health-focused tech company for women.
+This is a data analysis case study completed as part of the Google Data Analytics Professional Certificate. The goal was to analyze smart device fitness data to uncover how users interact with their devices — and translate those insights into actionable marketing recommendations for Bellabeat, a health-focused tech company for women.  
 
 
 
-🏢 About Bellabeat
+##🏢 About Bellabeat  
 
-Bellabeat is a high-tech wellness company focused on empowering women through data-driven. It was founded in 2013 by Urška Sršen and Sando Mur. The company develops health-focused smart products that collect data on activity, sleep, stress, and reproductive health — empowering women with knowledge about their own wellness.
+Bellabeat is a high-tech wellness company focused on empowering women through data-driven. It was founded in 2013 by Urška Sršen and Sando Mur. The company develops health-focused smart products that collect data on activity, sleep, stress, and reproductive health — empowering women with knowledge about their own wellness.  
 
 
 
