@@ -172,6 +172,7 @@ Increase user activity levels
 Improve retention
 Strengthen its position in the women’s wellness market
 
-👤 Author: Prince Owusu Agyare
-📧 prince.agyare@gmail.com
+
+👤 Author: Prince Owusu Agyare,
+📧 prince.agyare@gmail.com,
 🔗 https://www.linkedin.com/in/prince-o-agyare-data-bi-reporting-analyst/
