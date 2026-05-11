@@ -2,7 +2,7 @@
 
 ## Bellabeat Smart Device Usage Analysis
 
-Project #1 build in February, 2005.
+Project #1 · Built in February 2025 · Exploratory Data Analysis (EDA) - Descriptive analytics - Behavioral analysis
 
 End-to-end data analysis case study analyzing smart fitness device data to uncover user behavior trends and deliver strategic marketing recommendations for Bellabeat, a women-focused health tech company. 
 
